@@ -1,7 +1,7 @@
 // Run code after page loads
 document.addEventListener("DOMContentLoaded", function () {
     // Select DOM elements
-const addButton = document.getElementById("addButton");   // The "Add Task" button
+const addButton = document.getElementById("add-task-btn");   // The "Add Task" button
 const taskInput = document.getElementById("task-input");  // The input field for tasks
 const taskList  = document.getElementById("task-list");   // The unordered list for tasks
 
